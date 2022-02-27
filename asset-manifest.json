@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/tanyubrandon.io/static/css/main.6381cad5.css",
-    "main.js": "/tanyubrandon.io/static/js/main.351cb545.js",
-    "index.html": "/tanyubrandon.io/index.html",
-    "main.6381cad5.css.map": "/tanyubrandon.io/static/css/main.6381cad5.css.map",
-    "main.351cb545.js.map": "/tanyubrandon.io/static/js/main.351cb545.js.map"
+    "main.css": "/connection-test/static/css/main.6381cad5.css",
+    "main.js": "/connection-test/static/js/main.351cb545.js",
+    "index.html": "/connection-test/index.html",
+    "main.6381cad5.css.map": "/connection-test/static/css/main.6381cad5.css.map",
+    "main.351cb545.js.map": "/connection-test/static/js/main.351cb545.js.map"
   },
   "entrypoints": [
     "static/css/main.6381cad5.css",
